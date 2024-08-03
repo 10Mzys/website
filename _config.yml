@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhaoyang Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc at Harvard University, Statistics"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   uri              : # URL
   email            : "none@example.org" 
 
