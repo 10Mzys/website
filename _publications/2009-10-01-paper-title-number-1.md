@@ -1,5 +1,5 @@
 ---
-title: "The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis" (with Qi Zhao, Lei Su, Ping Ling, Nannan Yan, Chunjie Gu and Zhixiong Shi)
+title: "The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis (with Qi Zhao, Lei Su, Ping Ling, Nannan Yan, Chunjie Gu and Zhixiong Shi)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 venue: "Proceedings of the 1st International Workshop on Internet of People, Assisitive Robots and Things, ACM, 2018."
