@@ -11,7 +11,9 @@ I am now a Postdoctoral Fellow in the Department of Statistics at Harvard Univer
 
 I am broadly interested in statistical problems arising in machine learning, deep learning and other applications. I am working on topics including:
 
-
+* Geometric and topological statistics including graph-based statistics and topological data analysis (TDA).
+* Network analysis
+* Statistical learning including nonparametric statistics, kernel method and deep learning theories.
 
 A data-driven personal website
 ======
