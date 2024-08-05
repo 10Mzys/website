@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* \url{Spring 2024: Academic Pages Collaborator}{https://www.cambridge.org/core/journals/journal-of-applied-probability/article/nonhyperuniformity-of-gibbs-point-processes-with-shortrange-interactions/3F40B3E594041CD331AD51FFF9B56FFF}
+* [CLT](https://arxiv.org/abs/2403.09960)
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
