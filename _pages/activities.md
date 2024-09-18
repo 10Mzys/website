@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Activies"
-permalink: /activies/
+title: "Activties"
+permalink: /activties/
 author_profile: true
 redirect_from:
   - /resume
