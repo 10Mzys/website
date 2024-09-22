@@ -17,4 +17,4 @@ I am broadly interested in statistical problems arising in machine learning, dee
 
 Recent News
 ======
-* I joined the Department of Statistics, Harvard, on September 1st as a Postdoctoral Fellow.
+* I joined the Department of Statistics, Harvard, on September 1, 2024, as a Postdoctoral Fellow.
