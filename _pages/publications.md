@@ -11,15 +11,16 @@ redirect_from:
 
 Publications
 ======
-*  [CLT](https://ar/2403.09960), AISTATS, 2024.
+* [Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression](https://arxiv.org/abs/2311.00140), AISTATS, 2024.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [A Flexible Approach for Normal Approximation of Geometric and Topological Statistics](https://arxiv.org/abs/2210.10744v1), Bernoulli, 2024.
+  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
+* [The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis](https://dl.acm.org/doi/abs/10.1145/3215525.3215539), 2018.
+  * Zhao, Qi and Su, Lei and Shi, Zhaoyang and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.
 
 Preprints
 ======
-* [CLT](https://arxiv.org/abs/2403.09960)
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), 2024.
+  * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
+* [Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), 2024.
+  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
