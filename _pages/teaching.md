@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+UC Davis
 ======
-* Ph.D. in Statistics, University of California, Davis, 2019 - 2024.
-* B.S. in Mathematics, Fudan University, 2015 - 2019.
+* STA 231B (PhD level) - Mathematical Statistics, Winter 2021, 2022, 2023.
+* STA 141A/B - Statistical Data Science, Fall 2020, Spring 2022.
+* STA 108B - Applied Statistical Methods: Regression Analysis, Summer 2021.
+* STA 138A - Analysis of Categorical Data, Fall 2021.
+* STA 100 - Applied Statistics for Biological Sciences, Spring 2021, Fall 2022.
 
-Honors and Awards
+Fudan University
 ======
-* Graduate Studies 2023-24 Spring Travel Awards, UC Davis.
-* Peter Hall graduate student research awardee (recognizes an advanced PhD student in their overall excellence in statistical research during their doctoral degree at UC Davis).
-* Graduate star award nominee (highest award of undergraduate students in Fudan University among top 10).
-* National scholarship (highest scholarship for undergraduate students in China).
+* Member of Mathematical Problem Solving Association (group of teaching assistants for all math courses across the campus), 2018-2019.
