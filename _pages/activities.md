@@ -9,18 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Professional Service
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Reviewer for Journal of Machine Learning Research (JMLR), NeurIPS, AISTATS.
 
-Work experience
+Conference and Workshop
 ======
-* [CLT](https://arxiv.org/abs/2403.09960)
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Analysis of Complex Data: Tensors, Networks and Dynamic Systems, Banff International Research Station, May 2024.
 
 * Fall 2015: Research Assistant
   * Github University
