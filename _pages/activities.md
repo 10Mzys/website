@@ -15,45 +15,9 @@ Professional Service
 
 Conference and Workshop
 ======
-* Analysis of Complex Data: Tensors, Networks and Dynamic Systems, Banff International Research Station, May 2024.
+* [Analysis of Complex Data: Tensors, Networks and Dynamic Systems](https://www.birs.ca/events/2024/5-day-workshops/24w5263), Banff International Research Station, May 2024.
+* [Peter Hall Conference on Advances in Statistical Data Science](https://www.stat.ucdavis.edu/hallconference2023/index.php/), UC Davis, April 2023.
+* [Advances in Stein’s Method and its Applications in Statistical Learning and Optimization](https://www.birs.ca/events/2022/5-day-workshops/22w5092/), Banff International Research Station, April 2022.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
