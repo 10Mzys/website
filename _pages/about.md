@@ -17,4 +17,5 @@ I am broadly interested in statistical problems arising in machine learning, dee
 
 Recent News
 ======
+* Our recent work `[Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181)' is now avaible now Arvix! \textbf{We}
 * I joined the Department of Statistics, Harvard, on September 1, 2024, as a Postdoctoral Fellow.
