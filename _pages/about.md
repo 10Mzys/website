@@ -18,4 +18,4 @@ I am broadly interested in statistical problems arising in machine learning, dee
 Recent News
 ======
 * Our recent work [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181) is now avaible on Arxiv! Taking ATE as an example, we provide a general framework for non-asymptotic statistical inference via a local geometric concept called `stabilization'.
-* I joined the Department of Statistics, Harvard, on September 1, 2024, as a Postdoctoral Fellow.
+* I joined the Department of Statistics, Harvard University, on September 1, 2024, as a Postdoctoral Fellow.
