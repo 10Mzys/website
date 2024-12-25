@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-UC Davis
+UC Davis (Teaching Assistant)
 ======
 * STA 231B (PhD level) - Mathematical Statistics, Winter 2021, 2022, 2023.
 * STA 141A/B - Statistical Data Science, Fall 2020, Spring 2022.
