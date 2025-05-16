@@ -24,6 +24,8 @@ Preprints
 ======
 * [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), submitted, 2025.
   * Zhaoyang Shi.
+* Dense Associative Memory with Epanechnikov Energy, submitted, 2025.
+  * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
 * [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), submitted, 2024.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), submitted, 2024.
