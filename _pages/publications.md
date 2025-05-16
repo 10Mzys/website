@@ -11,6 +11,8 @@ redirect_from:
 
 Publications
 ======
+* [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), [UAI](https://www.auai.org/uai2025/), 2025.
+  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
 * [Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression](https://arxiv.org/abs/2311.00140), AISTATS, 2024.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
 * [A Flexible Approach for Normal Approximation of Geometric and Topological Statistics](https://arxiv.org/abs/2210.10744v1), Bernoulli, 2024.
@@ -20,9 +22,9 @@ Publications
 
 Preprints
 ======
-* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), 2024.
+* [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), submitted, 2025.
+  * Zhaoyang Shi.
+* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), submitted, 2024.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), 2024.
+* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), submitted, 2024.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), 2024.
-  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
