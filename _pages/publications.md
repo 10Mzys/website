@@ -22,7 +22,7 @@ Publications
 * [The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis](https://dl.acm.org/doi/abs/10.1145/3215525.3215539), 2018.
   * Zhao, Qi and Su, Lei and Shi, Zhaoyang and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.
 
-Preprints
+Under Review
 ======
 * [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), under review, 2025.
   * Zhaoyang Shi.
