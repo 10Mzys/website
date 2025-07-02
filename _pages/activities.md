@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Service
 ======
-* Reviewer for Journal of Machine Learning Research (JMLR), NeurIPS, AISTATS, ICLR.
+* Reviewer for Journal of Machine Learning Research (JMLR), Annals of Statistics, ICML, NeurIPS, AISTATS, ICLR.
 
 Conference and Workshop
 ======
