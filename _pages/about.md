@@ -9,11 +9,12 @@ redirect_from:
 
 I am now a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of [Prof. Zheng (Tracy) Ke](https://zke.fas.harvard.edu/). I obtained my Ph.D. degree in Statistics at UC Davis, where I was fortunate to be co-advised by [Prof. Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/) and [Prof. Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/). Before coming to UC Davis, I received my Bachelor's degree in Math at Fudan University, where I was advised by [Prof. Lei Shi](https://mastone1983.github.io/).
 
-I am broadly interested in statistical problems arising in machine learning, deep learning and other applications. I am working on topics including:
+My current research lies at the intersection of three domains: Statistics/Applied Probability, Computer Science, and applications in Economics, Biostatistics, and Casual inference. To be precise, I am interested in the following problems:
 
-* Geometric and topological statistics including graph-based statistics and topological data analysis (TDA).
-* Network analysis
-* Statistical learning including nonparametric statistics, kernel method and deep learning theories.
+* Statistical foundations for learning theories: Focus on generalization, transferability, and interpretability of deep learning and machine learning via principled statistical frameworks.
+* Uncertainty quantification in Biostatistics, Market Analysis, and Causal Inference related problems.
+
+I have been trained in normal approximation of geometric and topological statistics, nonparametric statistical learning and network analysis as Ph.D. and Postdoctoral fellow.
 
 Recent News
 ======
