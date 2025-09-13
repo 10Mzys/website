@@ -10,7 +10,7 @@ redirect_from:
 I am now a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of [Prof. Zheng (Tracy) Ke](https://zke.fas.harvard.edu/). I obtained my Ph.D. degree in Statistics at UC Davis, where I was fortunate to be co-advised by [Prof. Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/) and [Prof. Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/). Before coming to UC Davis, I received my Bachelor's degree in Math at Fudan University, where I was advised by [Prof. Lei Shi](https://mastone1983.github.io/).
 
 My current research lies at the intersection of three domains: statistical inference, machine learning, and applied probability. To be precise, I focus on understanding the theoretical principles of:
-* Statistical methodology (including dynamic network analysis and statistical learning)
+* Statistical learning and dynamic network analysis
 * Deep learning and foundation models (including Transformers, dense associative memory/Hopfield networks and reinforcement learning)
 * statistical inference on uncertainty quantification, with applications to machine learning, casual inference and econometrics
 For probability, I am interested in Stein's method and its application to normal approximation (Berry-Esseen bounds) under complex non-independence assumptions.
