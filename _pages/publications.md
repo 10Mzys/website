@@ -15,9 +15,9 @@ Publication and Manuscript
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), presented at ICLR NFAM workshop, 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
-* [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), [Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/uai2025/), 2025.
+* [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), Conference on Uncertainty in Artificial Intelligence (UAI), 2025.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
-* [Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression](https://arxiv.org/abs/2311.00140), [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2024/), 2024.
+* [Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression](https://arxiv.org/abs/2311.00140), International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
 * [A Flexible Approach for Normal Approximation of Geometric and Topological Statistics](https://arxiv.org/abs/2210.10744v1), Bernoulli, 2024.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
