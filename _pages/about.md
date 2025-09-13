@@ -12,7 +12,7 @@ I am now a Postdoctoral Fellow in the Department of Statistics at Harvard Univer
 My current research lies at the intersection of three domains: statistical inference, machine learning, and applied probability. To be precise, I focus on understanding the theoretical principles of:
 * Statistical learning and dynamic network analysis
 * Deep learning and foundation models (including Transformers, dense associative memory/Hopfield networks and reinforcement learning)
-* statistical inference on uncertainty quantification, with applications to machine learning, casual inference and econometrics
+* Statistical inference on uncertainty quantification, with applications to machine learning, casual inference and econometrics
 For probability, I am interested in Stein's method and its application to normal approximation (Berry-Esseen bounds) under complex non-independence assumptions.
 
 Recent News
