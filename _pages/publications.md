@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
+Publication and Manuscript
 ======
-* [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), [UAI](https://www.auai.org/uai2025/), 2025.
-  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
+* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Major revision, Annals of Statistics, 2025.
+  * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), presented at ICLR NFAM workshop, 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
+* [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), [UAI](https://www.auai.org/uai2025/), 2025.
+  * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
 * [Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression](https://arxiv.org/abs/2311.00140), AISTATS, 2024.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
 * [A Flexible Approach for Normal Approximation of Geometric and Topological Statistics](https://arxiv.org/abs/2210.10744v1), Bernoulli, 2024.
@@ -24,10 +26,17 @@ Publications
 
 Under Review
 ======
-* [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), under review, 2025.
+* [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2025.
   * Zhaoyang Shi.
-* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Major revision, Annals of Statistics, 2025.
+* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), 2024.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), under review, 2024.
-  * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
+
+Under Preparation
+======
+* Nonparametric Mixed-mebership Density Estimation, 2025.
+  * Jianqing Fan, Zheng Tracy Ke, and Zhaoyang Shi.
+* Smooth Dynamic Network Analysis, 2025.
+  * Louis V. Cammarata, Jiashun Jin, Zheng Tracy Ke, and Zhaoyang Shi.
+
+
  
