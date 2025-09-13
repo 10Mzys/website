@@ -13,6 +13,7 @@ My current research lies at the intersection of three domains: statistical infer
 * Statistical learning and dynamic network analysis
 * Deep learning and foundation models (including Transformers, dense associative memory/Hopfield networks and reinforcement learning)
 * Statistical inference on uncertainty quantification, with applications to machine learning, casual inference and econometrics
+  
 For probability, I am interested in Stein's method and its application to normal approximation (Berry-Esseen bounds) under complex non-independence assumptions.
 
 Recent News
