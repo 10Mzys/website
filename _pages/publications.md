@@ -36,7 +36,7 @@ Under Preparation
 * Nonparametric Mixed-mebership Density Estimation, 2025.
   * Jianqing Fan, Zheng Tracy Ke, and Zhaoyang Shi.
 * Smooth Dynamic Network Analysis, 2025.
-  * Louis V. Cammarata, Jiashun Jin, Zheng Tracy Ke, and Zhaoyang Shi.
+  * Louis V. Cammarata, Jiashun Jin, Zheng Tracy Ke, and Zhaoyang Shi. (Presented at JSM 2025)
 
 
  
