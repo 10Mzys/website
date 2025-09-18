@@ -17,6 +17,7 @@ with their applications to uncertainty quantification, machine learning, reinfor
 
 Recent News
 ======
+* Our recently work [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1) has been accepted to NeurIPS with Spotlight! In this work, we proposed a novel energy function for Dense Associative Memory (DenseAM) networks, the log-sum-ReLU (LSR), inspired by optimal kernel density estimation, that perfectly solves the memorization-generation trade-off in DAMs while showing a unique ability to generate abundant additional local minima (we call them `emergent memory').
 * I am invited to give a talk on `From Smooth to Nonsmooth: Minimax Optimal Regression with Laplacian Eigenmaps' at [SIAM UQ26 minisymposium "Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification"](https://www.siam.org/conferences-events/siam-conferences/uq26/), Mar 2026.
 * I am invited to give a talk on `Smooth Dynamic Network Analysis' at the [JSM2025](https://ww2.amstat.org/meetings/jsm/2025/), Aug 2025. 
 * I will give a talk titled `On the nonasymptotic statistical inferences via stabilization theory of Gaussian approximation bounds' at the [22nd INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/program) at Georgia Institute of Technology from June 30th to July 3rd, 2025.
