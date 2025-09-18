@@ -13,7 +13,7 @@ Publication and Manuscript
 ======
 * [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Major revision, Annals of Statistics, 2025.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Advances in Neural Information Processing Systems (NeurIPS, Spotlight), 2025.
+* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Accepted to Neural Information Processing Systems (NeurIPS, Spotlight), 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
 * [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), Conference on Uncertainty in Artificial Intelligence (UAI), 2025.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
