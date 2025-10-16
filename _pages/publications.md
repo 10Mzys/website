@@ -11,9 +11,11 @@ redirect_from:
 
 Publication and Manuscript
 ======
+* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), Under revision, Annals of Applied Probability, 2025.
+  * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Major revision, Annals of Statistics, 2025.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Accepted to Neural Information Processing Systems (NeurIPS, Spotlight), 2025.
+* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Accepted to Neural Information Processing Systems (NeurIPS, Spotlight, top 3%), 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
 * [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), Conference on Uncertainty in Artificial Intelligence (UAI), 2025.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
@@ -28,15 +30,13 @@ Under Review
 ======
 * [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2025.
   * Zhaoyang Shi.
-* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), 2024.
-  * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 
 Under Preparation
 ======
-* Nonparametric Mixed-mebership Density Estimation, 2025.
+* Unmixing Nonparametric Densities, 2025.
   * Jianqing Fan, Zheng Tracy Ke, and Zhaoyang Shi.
-* Smooth Dynamic Network Analysis, 2025.
-  * Louis V. Cammarata, Jiashun Jin, Zheng Tracy Ke, and Zhaoyang Shi. (Presented at JSM 2025)
+* Minimax Optimal Mixed-membership Estimation in Continuous-time Dynamic Network, 2025.
+  * Zheng Tracy Ke, and Zhaoyang Shi. (Presented at JSM 2025)
 
 
  
