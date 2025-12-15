@@ -15,7 +15,7 @@ Professional Service
 
 Conference and Workshop
 ======
-* Co-organize "New Frontiers in Associative Memory", International Conference on Learning Representations (ICLR) 2026 Workshop, Rio de Janeiro, Brazil, Apr 2026.
+* Co-organize ["New Frontiers in Associative Memory"](https://nfam2026.amemory.net/), International Conference on Learning Representations (ICLR) 2026 Workshop, Rio de Janeiro, Brazil, Apr 2026.
 * Invited talk at [SIAM UQ26 minisymposium "Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification"](https://www.siam.org/conferences-events/siam-conferences/uq26/), Minneapolis, Minnesota, USA, Mar 2026.
 * Spotlight presentation “Dense Associative Memory with Epanechnikov Energy" at [the Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS 2025)](https://neurips.cc/), San Diego, California, USA, Dec 2025.
 * Invited talk at [Data Science and Deep Learning Forum for Young Researchers at School of Mathematical Sciences, Fudan University and Center for Applied Mathematics, Fudan University](https://am.fudan.edu.cn/44560/list.htm), Shanghai, China, Nov 2025.
