@@ -27,4 +27,14 @@
 	    background-color: #76A6FC;
 	    border-radius: 4px;
 	}
+
+/* ===== FORCE RECTANGULAR AUTHOR AVATAR ===== */
+.author__avatar,
+.author__avatar a,
+.author__avatar img {
+  border-radius: 0 !important;
+  clip-path: none !important;
+  overflow: visible !important;
+}
+
         
