@@ -39,3 +39,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Make author avatar rectangular (not oval) */
+.author__avatar img {
+  border-radius: 0 !important;
+  clip-path: none !important;
+}
+
+/* In case the container clips it */
+.author__avatar {
+  border-radius: 0 !important;
+  overflow: visible !important;
+}
