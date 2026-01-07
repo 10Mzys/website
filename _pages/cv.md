@@ -21,3 +21,6 @@ Honors and Awards
 * Peter Hall graduate student research awardee (recognizes an advanced PhD student in their overall excellence in statistical research during their doctoral degree at UC Davis).
 * Graduate star award nominee (highest award of undergraduate students in Fudan University among top 10).
 * National scholarship (highest honor for undergraduate students in China, awarded to the top 0.2% nationwide).
+
+[Download CV (PDF)](https://www.dropbox.com/scl/fi/8ee74fsz94n5c0tzhfib8/cv_shi.pdf?rlkey=0jxbsqpyhoqu3ozpevl9xay93&st=nswqggrd&dl=0)
+======
