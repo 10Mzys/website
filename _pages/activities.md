@@ -13,8 +13,9 @@ Professional Service
 ======
 * Reviewer for Journal of Machine Learning Research (JMLR), Annals of Statistics, IEEE Transactions on Information Theory, ICML, NeurIPS, AISTATS, ICLR.
 
-Conference and Workshop
+Talks and Conferences
 ======
+* Invited talk "Dense Associative Memory with Epanechnikov Energy", MIT Mathematics, Feb 2026. 
 * Co-organize ["New Frontiers in Associative Memory"](https://nfam2026.amemory.net/), International Conference on Learning Representations (ICLR) 2026 Workshop, Rio de Janeiro, Brazil, Apr 2026.
 * Invited talk at [SIAM UQ26 minisymposium "Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification"](https://www.siam.org/conferences-events/siam-conferences/uq26/), Minneapolis, Minnesota, USA, Mar 2026.
 * Spotlight presentation “Dense Associative Memory with Epanechnikov Energy" at [the Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS 2025)](https://neurips.cc/), San Diego, California, USA, Dec 2025.
