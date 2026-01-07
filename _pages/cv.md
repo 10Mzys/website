@@ -20,4 +20,4 @@ Honors and Awards
 * Graduate Studies 2023-24 Spring Travel Awards, UC Davis.
 * Peter Hall graduate student research awardee (recognizes an advanced PhD student in their overall excellence in statistical research during their doctoral degree at UC Davis).
 * Graduate star award nominee (highest award of undergraduate students in Fudan University among top 10).
-* National scholarship (highest scholarship for undergraduate students in China).
+* National scholarship (highest honor for undergraduate students in China, awarded to the top 0.2% nationwide).
