@@ -35,8 +35,6 @@ Under Review <small>(Papers listed below with asterisk * are in alphabetical ord
 
 Under Preparation
 ======
-* Unmixing Nonparametric Densities, 2025.
-  * Jianqing Fan, Zheng Tracy Ke, and Zhaoyang Shi.
 * Minimax Optimal Mixed-membership Estimation in Continuous-time Dynamic Network, 2025.
   * Zheng Tracy Ke, and Zhaoyang Shi. (Presented at JSM 2025)
 
