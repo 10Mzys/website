@@ -26,9 +26,9 @@ Publication and Manuscript
 * [The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis](https://dl.acm.org/doi/abs/10.1145/3215525.3215539), 2018.
   * Zhao, Qi and Su, Lei and Shi, Zhaoyang and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.
 
-Under Review
+Under Review (The papers listed below with asterisk * are in alphabetical order.)
 ======
-* [Optimal Demixing of Nonparametric Densities](https://arxiv.org/abs/2603.27457), 2026.
+* [*Optimal Demixing of Nonparametric Densities](https://arxiv.org/abs/2603.27457), 2026.
   * Jianqing Fan, Zheng Tracy Ke and Zhaoyang Shi.
 * [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2025.
   * Zhaoyang Shi.
