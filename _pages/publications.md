@@ -28,6 +28,8 @@ Publication and Manuscript
 
 Under Review
 ======
+* [Optimal Demixing of Nonparametric Densities](https://arxiv.org/abs/2603.27457), 2026.
+  * Jianqing Fan, Zheng Tracy Ke and Zhaoyang Shi.
 * [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2025.
   * Zhaoyang Shi.
 
