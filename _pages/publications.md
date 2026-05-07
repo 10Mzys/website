@@ -13,7 +13,7 @@ Publication and Manuscript
 ======
 * [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), Under revision, Annals of Applied Probability, 2025.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Major revision, Annals of Statistics, 2025.
+* [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Annals of Statistics (to appear), 2026.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Accepted to Neural Information Processing Systems (NeurIPS, Spotlight, top 3%), 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
