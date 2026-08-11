@@ -14,6 +14,8 @@ My research lies at the intersection of statistics, machine learning, and artifi
 * Foundations of Generative AI: associative memory, energy-based models, diffusion and flow-based models.
 * AI for Science & Data Science: AI and statistical methods for scientific discovery, complex systems, interdisciplinary data, and data-driven decision-making.
 
+I will join Center for Applied Mathematics, Fudan University, with a joint appointment at School of Mathematical Sciences as a tenure-track Assistant Professor this fall. I am always open to collaborations and enthusiastic about working on new research directions. Feel free to reach out if you're interested in working together!
+
 Recent News
 ======
 * Our recent work [Population-Level Generative Modeling for Ranking Data](https://arxiv.org/pdf/2608.08422) is now available in arXiv! We propose a new generative modeling for ranking data using latent preference simplex embedding with flow matching (LPSE-FM) to achieve both accurate synthetic ranking generation and statistical interpretation under preference heterogeneity.
