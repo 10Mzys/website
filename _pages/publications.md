@@ -11,11 +11,11 @@ redirect_from:
 
 Publication and Manuscript
 ======
-* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), Under revision, Annals of Applied Probability, 2025.
+* [Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization](https://arxiv.org/abs/2403.09960), Under revision, Annals of Applied Probability, 2026.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
 * [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181), Annals of Statistics (to appear), 2026.
   * Zhaoyang Shi, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.
-* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), Accepted to Neural Information Processing Systems (NeurIPS, Spotlight, top 3%), 2025.
+* [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1), NeurIPS (Spotlight, top 3%), 2025.
   * Benjamin Hoover, Zhaoyang Shi, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.
 * [Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps](https://arxiv.org/abs/2402.14985), Conference on Uncertainty in Artificial Intelligence (UAI), 2025.
   * Zhaoyang Shi, Krishna Balasubramanian and Wolfgang Polonik.
@@ -32,7 +32,7 @@ Under Review <small>(Papers listed below with asterisk * are in alphabetical ord
   * Zhaoyang Shi.
 * [*Optimal Demixing of Nonparametric Densities](https://arxiv.org/abs/2603.27457), 2026.
   * Jianqing Fan, Zheng Tracy Ke and Zhaoyang Shi.
-* [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2025.
+* [Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration](https://arxiv.org/abs/2505.09756v1), 2026.
   * Zhaoyang Shi.
 
 Under Preparation
