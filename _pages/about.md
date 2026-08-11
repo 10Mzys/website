@@ -16,7 +16,7 @@ My research lies at the intersection of statistics, machine learning, and artifi
 
 Recent News
 ======
-* Our recent work.
+* Our recent work [Population-Level Generative Modeling for Ranking Data](https://arxiv.org/pdf/2608.08422) is now available in arXiv! We propose a new generative modeling for ranking data using latent preference simplex embedding with flow matching (LPSE-FM) to achieve both accurate synthetic ranking generation and statistical interpretation under preference heterogeneity.
 * Excited to announce I will be co-organzing a workshop ["New Frontiers in Associative Memory"](https://nfam2026.amemory.net/) at ICLR 2026.
 * Our work [Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators](https://arxiv.org/abs/2412.17181) is accepted by Annals of Statistics! Taking ATE in casual inference as an example, we propose a general framework for non-asymptotic statistical inference via a local geometry - stabilization.
 * Our recent work [Dense Associative Memory with Epanechnikov energy](https://arxiv.org/abs/2506.10801v1) has been accepted by NeurIPS with Spotlight (top 3%)! We proposed a novel energy function for Dense Associative Memory, the log-sum-ReLU (LSR), inspired by optimal kernel of KDE, that solves the memorization-generation trade-off in DAMs.
