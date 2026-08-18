@@ -122,7 +122,7 @@ Statistical Inference & Learning
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">*Optimal Demixing of Nonparametric Densities</a></div>
-    <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>. (asterisk * denotes alphabetical order)</div>
   </div>
 </div>
 
