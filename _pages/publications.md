@@ -112,7 +112,9 @@ Publication and Manuscript
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+  <div class="pub-figure">
+  <img src="/website/images/gaussian_ATE.png">
+</div>
    <div class="pub-venue">
   <strong><span style="color:#0066cc;">Annals of Statistics</span></strong><br>To appear, 2026
 </div>
