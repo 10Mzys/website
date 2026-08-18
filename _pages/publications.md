@@ -279,6 +279,19 @@ author_profile: false
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">
+      <img src="/website/images/LPSE_FM_github.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2608.08422">Population-Level Generative Modeling for Ranking Data</a></div>
+    <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
       <img src="/website/images/CMARL.png">
     </div>
   </div>
@@ -286,6 +299,19 @@ author_profile: false
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.09756v1">Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
+      <img src="/website/images/energy_decrease.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
+    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
+    <div class="pub-meta"><span class="pub-venue-name">NeurIPS</span> · Spotlight (Top 3%), 2025</div>
   </div>
 </div>
 
