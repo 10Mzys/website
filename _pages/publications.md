@@ -99,6 +99,36 @@ Statistical Inference & Learning
 <div class="pub-row">
   <div class="pub-left">
 <div class="pub-figure">
+  <img src="/website/images/LPSE_FM_github.png">
+</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
+</div>      
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2608.08422">Population-Level Generative Modeling for Ranking Data</a></div>
+    <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
+  <img src="/website/images/demixing.png">
+</div>
+  <div class="pub-venue">
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
+</div>      
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">*Optimal Demixing of Nonparametric Densities</a></div>
+    <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>.</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+<div class="pub-figure">
   <img src="/website/images/random_forest_pnn_thumbnail.png">
 </div>
     <div class="pub-venue">
@@ -123,21 +153,6 @@ Statistical Inference & Learning
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2412.17181">Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="pub-left">
-<div class="pub-figure">
-  <img src="/website/images/energy_decrease.png">
-</div>
-<div class="pub-venue">
-  <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% 2025
-</div>
- </div>
-  <div class="pub-right">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
-    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
   </div>
 </div>
 
@@ -186,22 +201,26 @@ Statistical Inference & Learning
   </div>
 </div>
 
+
+Foundations of Generative AI
+======
+
 <div class="pub-row">
   <div class="pub-left">
 <div class="pub-figure">
-  <img src="/website/images/mask_rcnn.png">
+  <img src="/website/images/energy_decrease.png">
 </div>
 <div class="pub-venue">
-  <strong><span style="color:#0066cc;">ACM</span></strong><br>2018
-</div>           
-  </div>
+  <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% 2025
+</div>
+ </div>
   <div class="pub-right">
-    <div class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3215525.3215539">The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis</a></div>
-    <div class="pub-authors">Zhao, Qi and Su, Lei and <strong>Shi, Zhaoyang</strong> and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
+    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
   </div>
 </div>
 
-Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
+AI for Science & Data Science
 ======
 
 <div class="pub-row">
@@ -221,16 +240,16 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">
-  <img src="/website/images/demixing.png">
+<div class="pub-figure">
+  <img src="/website/images/energy_decrease.png">
 </div>
-  <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
-</div>      
-  </div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% 2025
+</div>
+ </div>
   <div class="pub-right">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">*Optimal Demixing of Nonparametric Densities</a></div>
-    <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
+    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
   </div>
 </div>
 
@@ -249,9 +268,20 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
   </div>
 </div>
 
-Foundations of Generative AI
-======
-
+<div class="pub-row">
+  <div class="pub-left">
+<div class="pub-figure">
+  <img src="/website/images/mask_rcnn.png">
+</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">ACM</span></strong><br>2018
+</div>           
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3215525.3215539">The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis</a></div>
+    <div class="pub-authors">Zhao, Qi and Su, Lei and <strong>Shi, Zhaoyang</strong> and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.</div>
+  </div>
+</div>
 
 
 Under Preparation
