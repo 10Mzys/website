@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /activities/
+permalink: /activities2/
 author_profile: true
-redirect_from:
-  - /resume
+#redirect_from:
+#  - /resume
 ---
 
 {% include base_path %}
