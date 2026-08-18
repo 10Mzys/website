@@ -161,7 +161,7 @@ author_profile: false
         <div class="activity-date">Dec 12-Dec 14</div>
         <div class="activity-body">
           <div class="activity-title">Invited talk: Mixed Membership Amid Dynamic Networks</div>
-          <div class="activity-meta"><a href="https://www.cmstatistics.org/CFECMStatistics2026/">The 20th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics), HTW Berlin, Germany</a></div>
+          <div class="activity-meta"><a href="https://www.cmstatistics.org/CFECMStatistics2026/">The 20th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics)</a>, HTW Berlin, Germany</div>
         </div>
       </div>
 
