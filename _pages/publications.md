@@ -148,7 +148,9 @@ Publication and Manuscript
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+<div class="pub-figure">
+  <img src="/website/images/nonsmooth_regression.png">
+</div>
 <div class="pub-venue">
   <strong><span style="color:#0066cc;">UAI</span></strong><br>2025
 </div>    
