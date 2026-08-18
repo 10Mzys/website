@@ -31,10 +31,6 @@ redirect_from:
   box-sizing: border-box;
   overflow: hidden;
   margin-bottom: 0.45rem;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .pub-figure img {
@@ -43,6 +39,12 @@ redirect_from:
   object-fit: cover;
   object-position: center;
   display: block;
+
+  transition: transform 0.25s ease;
+}
+
+.pub-figure:hover img {
+  transform: scale(1.08);
 }
 
 .pub-venue {
