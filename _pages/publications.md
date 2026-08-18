@@ -158,7 +158,9 @@ Publication and Manuscript
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+    <div class="pub-figure">
+  <img src="/website/images/eigenmap_regression.png">
+</div>
 <div class="pub-venue">
   <strong><span style="color:#0066cc;">AISTATS</span></strong><br>2024
 </div>       
