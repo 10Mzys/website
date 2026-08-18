@@ -156,42 +156,45 @@ Publication and Manuscript
   </div>
 </div>
 
-Under Review <small>(Papers listed below with asterisk * are in alphabetical order)</small>
+Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
 ======
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Preprint<br>2026</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+</div>      
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/pdf/2608.08422">Population-Level Generative Modeling for Ranking Data</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
-    <div class="pub-note">2026.</div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Preprint<br>2026</div>
+  <div class="pub-venue">
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+</div>      
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">*Optimal Demixing of Nonparametric Densities</a></div>
     <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>.</div>
-    <div class="pub-note">2026.</div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Preprint<br>2026</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+</div>      
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.09756v1">Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
-    <div class="pub-note">2026.</div>
   </div>
 </div>
 
