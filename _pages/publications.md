@@ -216,7 +216,7 @@ author_profile: false
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2412.17181">Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-meta"><span class="pub-venue-name">Annals of Statistics</span> · To appear, 2026</div>
+    <div class="pub-meta"><span class="pub-venue-name">Annals of Statistics</span> · 2026</div>
   </div>
 </div>
 
