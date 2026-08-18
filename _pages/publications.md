@@ -206,7 +206,9 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+<div class="pub-figure">
+  <img src="/website/images/LPSE_FM_github.png">
+</div>
 <div class="pub-venue">
   <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
 </div>      
@@ -219,7 +221,9 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+    <div class="pub-figure">
+  <img src="/website/images/demixing.png">
+</div>
   <div class="pub-venue">
   <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
 </div>      
@@ -232,7 +236,9 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+   <div class="pub-figure">
+  <img src="/website/images/CMARL.png">
+</div>
 <div class="pub-venue">
   <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
 </div>      
