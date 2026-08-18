@@ -156,19 +156,38 @@ author_profile: false
 
     <div class="activity-year">2026</div>
     <div class="activity-list">
-      <div class="activity-item">
+
+          <div class="activity-item">
+        <div class="activity-date">Dec 12-14 2026</div>
+        <div class="activity-body">
+          <div class="activity-title">Invited talk: “Mixed Membership Amid Dynamic Networks”</div>
+          <div class="activity-meta">20th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2026)</div>
+        </div>
+      </div>
+
+
+          <div class="activity-item">
         <div class="activity-date">Feb 2026</div>
         <div class="activity-body">
-          <div class="activity-title">Invited talk: “Dense Associative Memory with Epanechnikov Energy”</div>
+          <div class="activity-title">Invited talk: “Memorization and Generalization in Associative Memory”</div>
           <div class="activity-meta">MIT Mathematics</div>
         </div>
       </div>
+
 
       <div class="activity-item">
         <div class="activity-date">Apr 2026</div>
         <div class="activity-body">
           <div class="activity-title">Co-organizer, <a href="https://nfam2026.amemory.net/">New Frontiers in Associative Memory</a></div>
           <div class="activity-meta">ICLR 2026 Workshop · Rio de Janeiro, Brazil</div>
+        </div>
+      </div>
+
+            <div class="activity-item">
+        <div class="activity-date">Feb 2026</div>
+        <div class="activity-body">
+          <div class="activity-title">Invited talk: “Memorization and Generalization in Associative Memory”</div>
+          <div class="activity-meta">MIT Mathematics</div>
         </div>
       </div>
 
