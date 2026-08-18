@@ -158,46 +158,37 @@ author_profile: false
     <div class="activity-list">
 
           <div class="activity-item">
-        <div class="activity-date">Dec 12-Dec 14 2026</div>
+        <div class="activity-date">Dec 12-Dec 14</div>
         <div class="activity-body">
-          <div class="activity-title">Invited talk: “Mixed Membership Amid Dynamic Networks”</div>
-          <div class="activity-meta">20th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2026)</div>
+          <div class="activity-title">Invited talk: Mixed Membership Amid Dynamic Networks</div>
+          <div class="activity-meta"><a href="https://www.cmstatistics.org/CFECMStatistics2026/">The 20th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics), HTW Berlin, Germany</a></div>
         </div>
       </div>
-
-
-          <div class="activity-item">
-        <div class="activity-date">Feb 2026</div>
-        <div class="activity-body">
-          <div class="activity-title">Invited talk: “Memorization and Generalization in Associative Memory”</div>
-          <div class="activity-meta">MIT Mathematics</div>
-        </div>
-      </div>
-
 
       <div class="activity-item">
         <div class="activity-date">Apr 2026</div>
         <div class="activity-body">
           <div class="activity-title">Co-organizer, <a href="https://nfam2026.amemory.net/">New Frontiers in Associative Memory</a></div>
-          <div class="activity-meta">ICLR 2026 Workshop · Rio de Janeiro, Brazil</div>
-        </div>
-      </div>
-
-            <div class="activity-item">
-        <div class="activity-date">Feb 2026</div>
-        <div class="activity-body">
-          <div class="activity-title">Invited talk: “Memorization and Generalization in Associative Memory”</div>
-          <div class="activity-meta">MIT Mathematics</div>
+          <div class="activity-meta">ICLR 2026 Workshop, Rio de Janeiro, Brazil</div>
         </div>
       </div>
 
       <div class="activity-item">
         <div class="activity-date">Mar 2026</div>
         <div class="activity-body">
-          <div class="activity-title">Invited talk, <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/">SIAM UQ26 minisymposium: Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification</a></div>
-          <div class="activity-meta">Minneapolis, Minnesota, USA</div>
+          <div class="activity-title">Invited talk: From Smooth to Nonsmooth: Minimax Optimal Regression with Laplacian Eigenmaps</div>
+          <div class="activity-meta"><a href="https://www.siam.org/conferences-events/siam-conferences/uq26/">SIAM UQ26 minisymposium: Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification</a>, Minneapolis, USA</div>
         </div>
       </div>
+
+            <div class="activity-item">
+        <div class="activity-date">Feb 2026</div>
+        <div class="activity-body">
+          <div class="activity-title">Invited talk: Memorization and Generalization in Associative Memory</div>
+          <div class="activity-meta">MIT Mathematics, Cambridge, USA</div>
+        </div>
+      </div>
+      
     </div>
 
     <div class="activity-year">2025</div>
@@ -205,16 +196,16 @@ author_profile: false
       <div class="activity-item">
         <div class="activity-date">Dec 2025</div>
         <div class="activity-body">
-          <div class="activity-title">“Dense Associative Memory with Epanechnikov Energy” <span class="activity-highlight">Spotlight</span></div>
-          <div class="activity-meta"><a href="https://neurips.cc/">NeurIPS 2025</a> · San Diego, California, USA</div>
+          <div class="activity-title">Dense Associative Memory with Epanechnikov Energy <span class="activity-highlight">Spotlight</span></div>
+          <div class="activity-meta"><a href="https://neurips.cc/">NeurIPS 2025</a>, San Diego, USA</div>
         </div>
       </div>
 
       <div class="activity-item">
         <div class="activity-date">Nov 2025</div>
         <div class="activity-body">
-          <div class="activity-title">Invited talk, <a href="https://am.fudan.edu.cn/44560/list.htm">Data Science and Deep Learning Forum for Young Researchers</a></div>
-          <div class="activity-meta">School of Mathematical Sciences &amp; Center for Applied Mathematics, Fudan University · Shanghai, China</div>
+          <div class="activity-title">Invited talk: Mixed-membership amid Continuous Latent Structures</div>
+          <div class="activity-meta"><a href="https://am.fudan.edu.cn/44560/list.htm">Data Science and Deep Learning Forum for Young Researchers</a>, School of Mathematical Sciences &amp; Center for Applied Mathematics, Fudan University, Shanghai, China</div>
         </div>
       </div>
 
@@ -222,22 +213,23 @@ author_profile: false
         <div class="activity-date">Oct 2025</div>
         <div class="activity-body">
           <div class="activity-title"><a href="https://statistics.fas.harvard.edu/stat-300">Department Seminar (STA 300)</a></div>
-          <div class="activity-meta">Harvard University</div>
+          <div class="activity-meta">Department of Statistics, Harvard University, Cambridge, USA</div>
         </div>
       </div>
 
       <div class="activity-item">
         <div class="activity-date">Aug 2025</div>
         <div class="activity-body">
-          <div class="activity-title">Invited talk, <a href="https://ww2.amstat.org/meetings/jsm/2025/">JSM 2025</a></div>
+          <div class="activity-title">Invited talk: Smooth Dynamic Network Analysis</div>
+          <div class="activity-meta"><a href="https://ww2.amstat.org/meetings/jsm/2025/">JSM 2025</a>, Nashville, USA</div>
         </div>
       </div>
 
       <div class="activity-item">
         <div class="activity-date">Jun 30–Jul 3</div>
         <div class="activity-body">
-          <div class="activity-title">Contributed talk, <a href="https://informs-aps.isye.gatech.edu/program">22nd INFORMS Applied Probability Society Conference</a></div>
-          <div class="activity-meta">Georgia Institute of Technology</div>
+          <div class="activity-title">Contributed talk: On the nonasymptotic statistical inferences via stabilization theory of Gaussian approximation bounds</div>
+          <div class="activity-meta"><a href="https://informs-aps.isye.gatech.edu/program">22nd INFORMS Applied Probability Society Conference</a>, Georgia Institute of Technology, Atlanta, USA</div>
         </div>
       </div>
     </div>
@@ -248,7 +240,7 @@ author_profile: false
         <div class="activity-date">May 2024</div>
         <div class="activity-body">
           <div class="activity-title"><a href="https://www.birs.ca/events/2024/5-day-workshops/24w5263">Analysis of Complex Data: Tensors, Networks and Dynamic Systems</a></div>
-          <div class="activity-meta">Banff International Research Station</div>
+          <div class="activity-meta">Banff International Research Station, Banff, Canada</div>
         </div>
       </div>
     </div>
@@ -259,7 +251,7 @@ author_profile: false
         <div class="activity-date">Apr 2023</div>
         <div class="activity-body">
           <div class="activity-title"><a href="https://www.stat.ucdavis.edu/hallconference2023/index.php/">Peter Hall Conference on Advances in Statistical Data Science</a></div>
-          <div class="activity-meta">UC Davis</div>
+          <div class="activity-meta">UC Davis, Davis, USA</div>
         </div>
       </div>
     </div>
@@ -270,7 +262,7 @@ author_profile: false
         <div class="activity-date">Apr 2022</div>
         <div class="activity-body">
           <div class="activity-title"><a href="https://www.birs.ca/events/2022/5-day-workshops/22w5092/">Advances in Stein’s Method and its Applications in Statistical Learning and Optimization</a></div>
-          <div class="activity-meta">Banff International Research Station</div>
+          <div class="activity-meta">Banff International Research Station, Banff, Canada</div>
         </div>
       </div>
     </div>
