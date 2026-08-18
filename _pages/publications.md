@@ -127,7 +127,9 @@ Publication and Manuscript
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+<div class="pub-figure">
+  <img src="/website/images/energy_decrease.png">
+</div>
 <div class="pub-venue">
   <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% 2025
 </div>
