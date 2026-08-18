@@ -94,7 +94,7 @@ Publication and Manuscript
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">NeurIPS<br>Spotlight · 2025</div>
+    <div class="pub-venue">NeurIPS<br>Spotlight top 3% · 2025</div>
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
