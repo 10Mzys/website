@@ -68,12 +68,11 @@ Publication and Manuscript
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Annals of Applied Probability<br>2026</div>
+    <div class="pub-venue">Under revision, Annals of Applied Probability<br>2026</div>
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.09960">Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-note">Under revision, Annals of Applied Probability, 2026.</div>
   </div>
 </div>
 
