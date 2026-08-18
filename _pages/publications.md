@@ -68,7 +68,7 @@ Publication and Manuscript
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Under revision, <strong>Annals of Applied Probability<strong><br>2026</div>
+    <div class="pub-venue">Under revision, <strong>Annals of Applied Probability</strong><br>2026</div>
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.09960">Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization</a></div>
