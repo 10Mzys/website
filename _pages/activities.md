@@ -158,7 +158,7 @@ author_profile: false
     <div class="activity-list">
 
           <div class="activity-item">
-        <div class="activity-date">Dec 12-14 2026</div>
+        <div class="activity-date">Dec 12-Dec 14 2026</div>
         <div class="activity-body">
           <div class="activity-title">Invited talk: “Mixed Membership Amid Dynamic Networks”</div>
           <div class="activity-meta">20th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics 2026)</div>
