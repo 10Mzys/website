@@ -22,29 +22,35 @@ redirect_from:
   text-align: center;
 }
 
+/* Fixed thumbnail frame */
 .pub-figure {
   width: 145px;
   height: 95px;
+
   background: #f1f3f7;
   border: 1px solid #dfe3e8;
   border-radius: 10px;
-  box-sizing: border-box;
+
   overflow: hidden;
+  box-sizing: border-box;
   margin-bottom: 0.45rem;
 }
 
+/* Every image fills exactly the same frame */
 .pub-figure img {
   width: 100%;
   height: 100%;
+
   object-fit: cover;
   object-position: center;
-  display: block;
 
+  display: block;
   transition: transform 0.25s ease;
 }
 
+/* Slight zoom on hover */
 .pub-figure:hover img {
-  transform: scale(1.08);
+  transform: scale(1.07);
 }
 
 .pub-venue {
