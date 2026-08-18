@@ -69,8 +69,7 @@ Publication and Manuscript
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
     <div class="pub-venue">
-  Under revision, <strong><span style="color:#0066cc;">Annals of Applied Probability</span></strong><br>
-  2026
+<strong><span style="color:#0066cc;">Annals of Applied Probability</span></strong><br>Under revision · 2026
 </div>
   </div>
   <div class="pub-right">
@@ -83,14 +82,12 @@ Publication and Manuscript
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
    <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Annals of Statistics</span></strong> (to appear)<br>
-  2026
+  <strong><span style="color:#0066cc;">Annals of Statistics</span></strong><br>To appear · 2026
 </div>
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2412.17181">Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-note">Annals of Statistics (to appear), 2026.</div>
   </div>
 </div>
 
