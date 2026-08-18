@@ -3,9 +3,9 @@ layout: archive
 title: ""
 permalink: /publications2/
 author_profile: true
-redirect_from:
+#redirect_from:
 #  - /resume
-#---
+---
 
 {% include base_path %}
 
