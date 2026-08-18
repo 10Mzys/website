@@ -10,7 +10,7 @@ redirect_from:
 I am now a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of [Prof. Zheng (Tracy) Ke](https://zke.fas.harvard.edu/). I obtained my Ph.D. degree in Statistics at UC Davis, where I was fortunate to be co-advised by [Prof. Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/) and [Prof. Wolfgang Polonik](https://www.stat.ucdavis.edu/~polonik/). Before coming to UC Davis, I received my Bachelor's degree in Math at Fudan University, where I was advised by [Prof. Lei Shi](https://mastone1983.github.io/).
 
 My research lies at the intersection of statistics, machine learning, and artificial intelligence, with a focus on developing theory and methods for reliable statistical inference, understanding modern AI models, and solving complex scientific and data-driven problems.
-* Statistical Inference: nonparametric and high-dimensional statistics, network analysis, Gaussian and bootstrap approximation, uncertainty quantification.
+* Statistical Inference & Learning: nonparametric and high-dimensional statistics, network analysis, Gaussian and bootstrap approximation, uncertainty quantification.
 * Foundations of Generative AI: associative memory, energy-based models, diffusion and flow-based models.
 * AI for Science & Data Science: AI and statistical methods for scientific discovery, complex systems, interdisciplinary data, and data-driven decision-making.
 
