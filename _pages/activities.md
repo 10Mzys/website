@@ -3,8 +3,8 @@ layout: archive
 title: ""
 permalink: /activities/
 author_profile: false
-# redirect_from:
-#   - /resume
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
