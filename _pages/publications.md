@@ -22,10 +22,8 @@ redirect_from:
   text-align: center;
 }
 
-/* Fixed thumbnail frame */
 .pub-figure {
   width: 145px;
-  height: 95px;
 
   background: #f1f3f7;
   border: 1px solid #dfe3e8;
@@ -36,15 +34,13 @@ redirect_from:
   margin-bottom: 0.45rem;
 }
 
-/* Every image fills exactly the same frame */
+/* Show the full PNG and let its aspect ratio determine the height */
 .pub-figure img {
   width: 100%;
-  height: 100%;
-
-  object-fit: cover;
-  object-position: center;
+  height: auto;
 
   display: block;
+
   transition: transform 0.25s ease;
 }
 
@@ -92,7 +88,6 @@ redirect_from:
 
   .pub-figure {
     width: 105px;
-    height: 72px;
     border-radius: 8px;
   }
 }
@@ -247,7 +242,6 @@ Under Preparation
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
     <div class="pub-venue">In preparation<br>2025</div>
   </div>
   <div class="pub-right">
