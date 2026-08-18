@@ -93,7 +93,7 @@ redirect_from:
 }
 </style>
 
-Publication and Manuscript
+Statistical Inference & Learning
 ======
 
 <div class="pub-row">
@@ -210,7 +210,7 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
   <img src="/website/images/LPSE_FM_github.png">
 </div>
 <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
 </div>      
   </div>
   <div class="pub-right">
@@ -225,7 +225,7 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
   <img src="/website/images/demixing.png">
 </div>
   <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
 </div>      
   </div>
   <div class="pub-right">
@@ -240,7 +240,7 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
   <img src="/website/images/CMARL.png">
 </div>
 <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Preprint</span></strong><br>, 2026
+  <strong><span style="color:#0066cc;">Preprint</span></strong><br> 2026
 </div>      
   </div>
   <div class="pub-right">
@@ -248,6 +248,11 @@ Under Review <small>(Papers with asterisk * are in alphabetical order)</small>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
   </div>
 </div>
+
+Foundations of Generative AI
+======
+
+
 
 Under Preparation
 ======
