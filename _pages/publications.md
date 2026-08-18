@@ -28,23 +28,20 @@ redirect_from:
   background: #f1f3f7;
   border: 1px solid #dfe3e8;
   border-radius: 10px;
-  padding: 7px;
   box-sizing: border-box;
   overflow: hidden;
+  margin-bottom: 0.45rem;
 
   display: flex;
   align-items: center;
   justify-content: center;
-
-  color: #999;
-  font-size: 0.82em;
-  margin-bottom: 0.45rem;
 }
 
 .pub-figure img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: center;
   display: block;
 }
 
@@ -88,7 +85,6 @@ redirect_from:
   .pub-figure {
     width: 105px;
     height: 72px;
-    padding: 5px;
     border-radius: 8px;
   }
 }
