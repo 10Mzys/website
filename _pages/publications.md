@@ -67,7 +67,9 @@ Publication and Manuscript
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-figure">Figure</div>
+  <div class="pub-figure">
+  <img src="{{ '/images/random_forest_pnn_thumbnail.png' | relative_url }}">
+</div>
     <div class="pub-venue">
 <strong><span style="color:#0066cc;">Annals of Applied Probability</span></strong><br>Under revision, 2026
 </div>
