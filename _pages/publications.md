@@ -16,49 +16,81 @@ redirect_from:
   margin: 0 0 2rem 0;
   align-items: flex-start;
 }
+
 .pub-left {
   flex: 0 0 145px;
   text-align: center;
 }
+
 .pub-figure {
   width: 145px;
   height: 95px;
-  border: 1px solid #d8d8d8;
-  background: #f5f5f5;
+  background: #f1f3f7;
+  border: 1px solid #dfe3e8;
+  border-radius: 10px;
+  padding: 7px;
+  box-sizing: border-box;
+  overflow: hidden;
+
   display: flex;
   align-items: center;
   justify-content: center;
+
   color: #999;
   font-size: 0.82em;
   margin-bottom: 0.45rem;
 }
+
+.pub-figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 .pub-venue {
   font-size: 0.82em;
   line-height: 1.25;
   color: #666;
 }
+
 .pub-right {
   flex: 1 1 420px;
   min-width: 0;
 }
+
 .pub-title {
   font-weight: 600;
   line-height: 1.35;
   margin-bottom: 0.3rem;
 }
+
 .pub-authors {
   font-size: 0.94em;
   line-height: 1.45;
   margin-bottom: 0.25rem;
 }
+
 .pub-note {
   font-size: 0.9em;
   color: #666;
 }
+
 @media (max-width: 600px) {
-  .pub-row { gap: 0.85rem; }
-  .pub-left { flex-basis: 105px; }
-  .pub-figure { width: 105px; height: 72px; }
+  .pub-row {
+    gap: 0.85rem;
+  }
+
+  .pub-left {
+    flex-basis: 105px;
+  }
+
+  .pub-figure {
+    width: 105px;
+    height: 72px;
+    padding: 5px;
+    border-radius: 8px;
+  }
 }
 </style>
 
