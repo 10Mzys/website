@@ -79,7 +79,7 @@ Publication and Manuscript
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Annals of Statistics (to appear)<br>2026</div>
+    <div class="pub-venue"><strong>Annals of Statistics</strong> (to appear)<br>2026</div>
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2412.17181">Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators</a></div>
