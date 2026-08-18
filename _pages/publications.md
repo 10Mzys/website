@@ -107,48 +107,52 @@ Publication and Manuscript
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">UAI<br>2025</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">UAI</span></strong><br>2025
+</div>    
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2402.14985">Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-note">Conference on Uncertainty in Artificial Intelligence (UAI), 2025.</div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">AISTATS<br>2024</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">AISTATS</span></strong><br>2024
+</div>       
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2311.00140">Adaptive and non-adaptive minimax rates for weighted Laplacian-eigenmap based nonparametric regression</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-note">International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.</div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">Bernoulli<br>2024</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">Bernoulli</span></strong><br>2024
+</div>        
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2210.10744v1">A Flexible Approach for Normal Approximation of Geometric and Topological Statistics</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
-    <div class="pub-note">Bernoulli, 2024.</div>
   </div>
 </div>
 
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
-    <div class="pub-venue">ACM<br>2018</div>
+<div class="pub-venue">
+  <strong><span style="color:#0066cc;">ACM</span></strong><br>2018
+</div>           
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3215525.3215539">The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis</a></div>
     <div class="pub-authors">Zhao, Qi and Su, Lei and <strong>Shi, Zhaoyang</strong> and Ling, Ping and Yan, Nannan and Gu, Chunjie and Shi, Zhixiong.</div>
-    <div class="pub-note">2018.</div>
   </div>
 </div>
 
