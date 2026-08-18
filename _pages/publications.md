@@ -69,7 +69,7 @@ Publication and Manuscript
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
     <div class="pub-venue">
-<strong><span style="color:#0066cc;">Annals of Applied Probability</span></strong><br>Under revision · 2026
+<strong><span style="color:#0066cc;">Annals of Applied Probability</span></strong><br>Under revision, 2026
 </div>
   </div>
   <div class="pub-right">
@@ -82,7 +82,7 @@ Publication and Manuscript
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
    <div class="pub-venue">
-  <strong><span style="color:#0066cc;">Annals of Statistics</span></strong><br>To appear · 2026
+  <strong><span style="color:#0066cc;">Annals of Statistics</span></strong><br>To appear, 2026
 </div>
   </div>
   <div class="pub-right">
@@ -95,7 +95,7 @@ Publication and Manuscript
   <div class="pub-left">
     <div class="pub-figure">Figure</div>
 <div class="pub-venue">
-  <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% · 2025
+  <strong><span style="color:#0066cc;">NeurIPS</span></strong><br>Spotlight top 3% 2025
 </div>
  </div>
   <div class="pub-right">
