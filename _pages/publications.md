@@ -248,7 +248,6 @@ Under Preparation
 
 <div class="pub-row">
   <div class="pub-left">
-    <div class="pub-venue">In preparation<br>2025</div>
   </div>
   <div class="pub-right">
     <div class="pub-title">Minimax Optimal Mixed-membership Estimation in Continuous-time Dynamic Network</div>
