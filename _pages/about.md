@@ -196,6 +196,15 @@ redirect_from:
   <div class="home-news">
 
     <div class="news-item">
+      <span class="news-tag">CMStatistics 2026</span>
+      Invited talk:
+      <strong>Mixed Membership Amid Dynamic Networks</strong>,
+      at the minisymposium
+      <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/">Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification</a>,
+      March 2026.
+    </div>
+
+    <div class="news-item">
       <span class="news-tag">NEW</span>
       Our work
       <a href="https://arxiv.org/pdf/2608.08422"><strong>Population-Level Generative Modeling for Ranking Data</strong></a>
