@@ -199,9 +199,7 @@ redirect_from:
       <span class="news-tag">CMStatistics 2026</span>
       Invited talk:
       <strong>Mixed Membership Amid Dynamic Networks</strong>,
-      at the minisymposium
-      <a href="https://www.siam.org/conferences-events/siam-conferences/uq26/">Probabilistic Manifold Learning and Deep Embeddings for Uncertainty Quantification</a>,
-      March 2026.
+      <a href="https://www.cmstatistics.org/CFECMStatistics2026/">the 20th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics)</a>, HTW Berlin, Germany, Dec 12-Dec 14, 2026.
     </div>
 
     <div class="news-item">
