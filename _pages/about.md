@@ -177,7 +177,7 @@ redirect_from:
     </div>
 
     <div class="research-card">
-      <div class="research-card-title">AI for Science &amp; Data Science</div>
+      <div class="research-card-title">Data Science &amp; Decision Making</div>
       <div class="research-card-text">
         AI and statistical methods for scientific discovery, complex systems, interdisciplinary data,
         and data-driven decision-making.
