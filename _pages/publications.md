@@ -274,7 +274,7 @@ author_profile: false
   </div>
 </div>
 
-<h2 class="pub-section">AI for Science &amp; Data Science</h2>
+<h2 class="pub-section">Data Science &amp; Decision Making</h2>
 
 <div class="pub-row">
   <div class="pub-left">
