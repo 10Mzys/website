@@ -197,7 +197,7 @@ redirect_from:
       <div class="news-item">
       <span class="news-tag">New Position</span>
        I joined the Center for Applied Mathematics at Fudan University,
-    with a joint appointment in the School of Mathematical Sciences, as a tenure-track Assistant Professor, Sep 3, 2026.
+    with a joint appointment in the School of Mathematical Sciences, as a tenure-track Assistant Professor on Sep 3 2026.
     </div>
 
 
