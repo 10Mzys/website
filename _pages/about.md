@@ -142,7 +142,8 @@ redirect_from:
 
   <div class="home-intro">
     <p>
-      I am a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of
+      I am an Assistant Professor of the Center for Applied Mathematics at Fudan University,
+    with a joint appointment in the School of Mathematical Sciences. From 2024 to 2026, I was a Postdoctoral Fellow in the Department of Statistics at Harvard University, under the supervision of
       <a href="https://zke.fas.harvard.edu/">Prof. Zheng (Tracy) Ke</a>.
       I received my Ph.D. in Statistics from UC Davis, where I was co-advised by
       <a href="https://sites.google.com/view/kriznakumar/">Prof. Krishna Balasubramanian</a> and
@@ -186,14 +187,19 @@ redirect_from:
   </div>
 
   <div class="home-callout">
-    <strong>Starting this fall:</strong> I will join the Center for Applied Mathematics at Fudan University,
-    with a joint appointment in the School of Mathematical Sciences, as a tenure-track Assistant Professor.
-    I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together.
+    <strong> Collaborations:</strong> I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together.
   </div>
 
   <h2 class="home-section-title">Recent News</h2>
 
   <div class="home-news">
+
+      <div class="news-item">
+      <span class="news-tag">New Position</span>
+       I joined the Center for Applied Mathematics at Fudan University,
+    with a joint appointment in the School of Mathematical Sciences, as a tenure-track Assistant Professor, Sep 3, 2026.
+    </div>
+
 
     <div class="news-item">
       <span class="news-tag">CMStatistics 2026</span>
@@ -201,6 +207,7 @@ redirect_from:
       <strong>Mixed Membership Amid Dynamic Networks</strong>,
       <a href="https://www.cmstatistics.org/CFECMStatistics2026/">the 20th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics)</a>, HTW Berlin, Germany, Dec 12-Dec 14, 2026.
     </div>
+
 
     <div class="news-item">
       <span class="news-tag">NEW</span>
