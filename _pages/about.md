@@ -191,7 +191,7 @@ redirect_from:
   </div>
   
   <div class="home-callout">
-    <strong> Prospective PhD Students:</strong> : PhD admissions are handled by the departmental admissions committee. If you are interested in working with me, please indicate me as a potential advisor in your application.
+    <strong> Prospective PhD Students:</strong> PhD admissions are handled by the departmental admissions committee. If you are interested in working with me, please indicate me as a potential advisor in your application.
   </div>
 
   <h2 class="home-section-title">Recent News</h2>
