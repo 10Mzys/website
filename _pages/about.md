@@ -187,7 +187,7 @@ redirect_from:
   </div>
 
   <div class="home-callout">
-    <strong> Collaborations:</strong> I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together. PhD admissions are handled
+    <strong> Collaborations:</strong> I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together.
   </div>
   
   <div class="home-callout">
