@@ -187,7 +187,11 @@ redirect_from:
   </div>
 
   <div class="home-callout">
-    <strong> Collaborations:</strong> I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together.
+    <strong> Collaborations:</strong> I am always open to collaborations and new research directions. Feel free to reach out if you are interested in working together. PhD admissions are handled
+  </div>
+  
+  <div class="home-callout">
+    <strong> Prospective PhD Students:</strong> : PhD admissions are handled by the departmental admissions committee. If you are interested in working with me, please indicate me as a potential advisor in your application.
   </div>
 
   <h2 class="home-section-title">Recent News</h2>
