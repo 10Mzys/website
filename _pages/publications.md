@@ -296,7 +296,7 @@ author_profile: false
     </div>
   </div>
   <div class="pub-right">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2505.09756v1">Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration</a></div>
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2505.09756">LOD: Latent Objective Discovery in Heterogeneous Multi-Agent Reinforcement Learning</a></div>
     <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
   </div>
