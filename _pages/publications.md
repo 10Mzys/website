@@ -189,7 +189,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">Optimal Demixing of Nonparametric Densities</a></div>
-    <div class="pub-authors">with Jianqing Fan and Zheng Tracy Ke. <span style="color:#777;">(alphabetical order)</span></div>
+    <div class="pub-authors">with Jianqing Fan and Zheng Tracy Ke.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
   </div>
 </div>
