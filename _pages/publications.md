@@ -189,7 +189,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2603.27457">Optimal Demixing of Nonparametric Densities</a></div>
-    <div class="pub-authors">Jianqing Fan, Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>. <span style="color:#777;">(alphabetical order)</span></div>
+    <div class="pub-authors">with Jianqing Fan and Zheng Tracy Ke. <span style="color:#777;">(alphabetical order)</span></div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
   </div>
 </div>
@@ -202,7 +202,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.09960">Multivariate Gaussian Approximation for Random Forest via Region-based Stabilization</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
+    <div class="pub-authors">with Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
     <div class="pub-meta"><span class="pub-venue-name">Annals of Applied Probability</span> · Under revision, 2026</div>
   </div>
 </div>
@@ -215,7 +215,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2412.17181">Gaussian and Bootstrap Approximation for Matching-based Average Treatment Effect Estimators</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
+    <div class="pub-authors">with Chinmoy Bhattacharjee, Krishna Balasubramanian and Wolfgang Polonik.</div>
     <div class="pub-meta"><span class="pub-venue-name">Annals of Statistics</span> · 2026</div>
   </div>
 </div>
@@ -228,7 +228,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2402.14985">Minimax Optimal Nonsmooth Nonparametric Regression via Fractional Laplacian Eigenmaps</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
+    <div class="pub-authors">with Krishna Balasubramanian and Wolfgang Polonik.</div>
     <div class="pub-meta"><span class="pub-venue-name">UAI</span> · 2025</div>
   </div>
 </div>
@@ -241,7 +241,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2311.00140">Adaptive and Non-adaptive Minimax Rates for Weighted Laplacian-Eigenmap Based Nonparametric Regression</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
+    <div class="pub-authors">with Krishna Balasubramanian and Wolfgang Polonik.</div>
     <div class="pub-meta"><span class="pub-venue-name">AISTATS</span> · 2024</div>
   </div>
 </div>
@@ -254,7 +254,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2210.10744v1">A Flexible Approach for Normal Approximation of Geometric and Topological Statistics</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>, Krishna Balasubramanian and Wolfgang Polonik.</div>
+    <div class="pub-authors">with Krishna Balasubramanian and Wolfgang Polonik.</div>
     <div class="pub-meta"><span class="pub-venue-name">Bernoulli</span> · 2024</div>
   </div>
 </div>
@@ -282,7 +282,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
-    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
+    <div class="pub-authors">with Benjamin Hoover, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
     <div class="pub-meta"><span class="pub-venue-name">NeurIPS</span> · Spotlight (Top 3%), 2025</div>
   </div>
 </div>
@@ -323,7 +323,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/pdf/2505.09756">LOD: Latent Objective Discovery in Heterogeneous Multi-Agent Reinforcement Learning</a></div>
-    <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-authors">with Ke Sun.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
   </div>
 </div>
@@ -336,7 +336,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.10801v1">Dense Associative Memory with Epanechnikov Energy</a></div>
-    <div class="pub-authors">Benjamin Hoover, <strong>Zhaoyang Shi</strong>, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
+    <div class="pub-authors">with Benjamin Hoover, Krishna Balasubramanian, Dmitry Krotov and Parikshit Ram.</div>
     <div class="pub-meta"><span class="pub-venue-name">NeurIPS</span> · Spotlight (Top 3%), 2025</div>
   </div>
 </div>
@@ -349,7 +349,7 @@ author_profile: false
   </div>
   <div class="pub-right">
     <div class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3215525.3215539">The Analysis of Features Importance in Electrical Infrared Images Faults Diagnosis</a></div>
-    <div class="pub-authors">Qi Zhao, Lei Su, <strong>Zhaoyang Shi</strong>, Ping Ling, Nannan Yan, Chunjie Gu and Zhixiong Shi.</div>
+    <div class="pub-authors">with Qi Zhao, Lei Su, Ping Ling, Nannan Yan, Chunjie Gu and Zhixiong Shi.</div>
     <div class="pub-meta"><span class="pub-venue-name">ACM</span> · 2018</div>
   </div>
 </div>
@@ -359,7 +359,7 @@ author_profile: false
 <div class="pub-row pub-row-text-only">
   <div class="pub-right">
     <div class="pub-title">Minimax Optimal Mixed-membership Estimation in Continuous-time Dynamic Network</div>
-    <div class="pub-authors">Zheng Tracy Ke and <strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-authors">with Zheng Tracy Ke.</div>
     <div class="pub-note">Presented at JSM 2025.</div>
   </div>
 </div>
