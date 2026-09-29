@@ -264,6 +264,19 @@ author_profile: false
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">
+      <img src="/website/images/graph_dam.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32365">Graph Memory: Spectral Associative Memory via Dirichlet Energy</a></div>
+    <div class="pub-authors"><strong>Zhaoyang Shi</strong>.</div>
+    <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
       <img src="/website/images/energy_decrease.png">
     </div>
   </div>
