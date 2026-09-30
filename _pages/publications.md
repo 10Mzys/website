@@ -264,6 +264,19 @@ author_profile: false
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">
+      <img src="/website/images/DAM_Manifold.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32365">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
+    <div class="pub-authors">with Krishna Balasubramanian.</div>
+    <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026, short version in <span class="pub-venue-name">New Frontiers in Associative Memories, ICLR</span>, 2026.</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
       <img src="/website/images/graph_dam.png">
     </div>
   </div>
@@ -288,6 +301,19 @@ author_profile: false
 </div>
 
 <h2 class="pub-section">Data Science &amp; Decision Making</h2>
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
+      <img src="/website/images/DAM_Manifold.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32365">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
+    <div class="pub-authors">with Krishna Balasubramanian.</div>
+    <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026, short version in <span class="pub-venue-name">New Frontiers in Associative Memories, ICLR</span>, 2026.</div>
+  </div>
+</div>
 
 <div class="pub-row">
   <div class="pub-left">
