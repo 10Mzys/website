@@ -268,7 +268,7 @@ author_profile: false
     </div>
   </div>
   <div class="pub-right">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32365">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.35948">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
     <div class="pub-authors">with Krishna Balasubramanian.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026, short version in <span class="pub-venue-name">New Frontiers in Associative Memories, ICLR</span>, 2026.</div>
   </div>
@@ -309,7 +309,7 @@ author_profile: false
     </div>
   </div>
   <div class="pub-right">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2609.32365">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.35948">Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes</a></div>
     <div class="pub-authors">with Krishna Balasubramanian.</div>
     <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026, short version in <span class="pub-venue-name">New Frontiers in Associative Memories, ICLR</span>, 2026.</div>
   </div>
