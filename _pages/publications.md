@@ -305,6 +305,20 @@ author_profile: false
 <div class="pub-row">
   <div class="pub-left">
     <div class="pub-figure">
+      <img src="/website/images/DP_LSR.png">
+    </div>
+  </div>
+  <div class="pub-right">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2610.11218">BRACE: Differential Privacy for Dense Associative Memory with LSR Energy</a></div>
+    <div class="pub-authors">with Chang Qu.</div>
+    <div class="pub-meta"><span class="pub-venue-name">Preprint</span> · 2026</div>
+  </div>
+</div>
+
+
+<div class="pub-row">
+  <div class="pub-left">
+    <div class="pub-figure">
       <img src="/website/images/DAM_Manifold.png">
     </div>
   </div>
